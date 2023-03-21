@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: test2
 file: /media/courses/site16/test2.txt
 file_type: text/plain
 image_metadata:
